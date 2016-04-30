@@ -10,6 +10,6 @@ Xiaoqian (Elaine) Ma - Front End Developer
 Jagatdeep Anand - Back End Developer
 
 ## Description
-eaTable is a restaurant table reservation web application which provides general users the ability to order their meal in advance. This was a student project for CSC648: Software Engineering at San Francisco State University with a development time frame of 3 months. Languages used included HTML5, CSS3, JavaScript and PHP on an Amazon Web Services server with a MySQL database. We used a roll-your-own model-view-controller architecture as we were not permitted by the instructor to use a pre-built framework. Collaboration and version control were achieved via Subversion VCS.
+Eatable is a web based restaurant reservation system which allows Restaurateurs to connect with potential customers as well as manage reservations and food orders.  It was developed by a six person team, over a period of three months, as the capstone project for CSC648: Software Engineering at San Francisco State University.  The project was implemented in HTML5, CSS3, Bootstrap, Javascript, JQuery, and PHP.  The framework follows the Model View Controller architectural pattern and was designed and implemented completely in-house by the back-end team, with specific concern for maintainability and scalability in mind.
 
-This link points to our application as of the end of the semester, prior to our final class presentation, stored on the class Amazon Web Server. *It is available purely for demonstration purposes and is not a real service*: http://sfsuswe.com/~f15g04/
+The project can be viewed at: http://sfsuswe.com/~f15g04/
